@@ -20,6 +20,8 @@ Hope this repo will help you to assess my SQL skills or will be just fun for you
 # Certificates
 - [SQL Essential Training](https://www.linkedin.com/learning/certificates/86825e18ea1e2b87826f3961dab2aba022bbc2ab21481a03ad9ebf38fbd37796?trk=share_certificate) (Dec 2021) (LinkedIn Learning)
 - [Advanced SQL for Query Tuning and Performance Optimization](https://www.linkedin.com/learning/certificates/f866bfde96069d829c462124e1f8465686326ad5e6aadc3165530dfafb949d99?trk=share_certificate) (Dec 2021) (LinkedIn Learning)
+- [My Transcript for IT215](https://github.com/Jing0831/My_Portfolio/blob/753da078f2acd2362fe69dbb16b18e9227ad49e2/Transcript.pdf) (Fall 2020) (Hofstra University)<br>
+- [My Transcript for BAN204](https://github.com/Jing0831/My_Portfolio/blob/753da078f2acd2362fe69dbb16b18e9227ad49e2/Transcript.pdf) (Fall 2021) (Hofstra University)<br>
 
 # Feel Free to Contact Me:
 - LinkedIn: https://www.linkedin.com/in/jingyi-wang-0228/
